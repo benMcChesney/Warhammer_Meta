@@ -10,7 +10,7 @@
             "type": "debugpy",
             "request": "launch",
             "program": "${file}",
-            "args": [ "--startDate=2024-07-11" ] ,
+            "args": [ "--startDate=2024-07-01", "--entity=events" ] ,
             "console": "integratedTerminal"
         }
     ]
